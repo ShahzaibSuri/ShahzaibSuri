@@ -7,7 +7,7 @@ Computer Systems Engineering student pivoting into **Robotics & Chip Design** �
 ### 🔭 What I'm working on
 
 - **RV32I Processor** — built a complete RV32I core in Logisim from scratch, now porting it to Verilog. Working with teammates through **MERL (Microelectronics Research Lab)** toward extending it through the M/A/F/D/G RISC-V extensions, with an eye on **GSoC/LFX** hardware track submissions.
-- **B-Rex** — leading a 4-person robotics team building a lightweight combat robot ("Robo War" bot).
+- **RoboWar Bot** — leading a 4-person robotics team building a lightweight combat robot.
 - Competition history: RoboSoccer, RoboSumo, and a PID-controlled line-following robot (LFR).
 
 ### 🎯 Currently learning
