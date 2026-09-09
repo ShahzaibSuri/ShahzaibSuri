@@ -1,14 +1,13 @@
 # Hi, I'm Shahzaib 👋
 
-Computer Systems Engineering student pivoting into **Robotics & Chip Design** — currently building an RV32I RISC-V processor and leading a competitive robotics team.
+Computer Systems Engineering student pivoting into **Robotics & Chip Design** — currently building a RISC-V processor and leading a competitive robotics team.
 
 ---
 
 ### 🔭 What I'm working on
 
-- **RV32I Processor** — built a complete RV32I core in Logisim from scratch, now porting it to Verilog. Working with 4 teammates through **MERL (Microelectronics Research Lab)** toward extending it through the M/A/F/D/G RISC-V extensions, with an eye on **GSoC/LFX** hardware track submissions.
-- **B-Rex** — leading a 4-person robotics team building a lightweight combat robot ("Robo War" bot), learning AutoCAD for proper mechanical design along the way.
-- **Drone build** — a personal quadcopter project, self-funded through tutoring work.
+- **RV32I Processor** — built a complete RV32I core in Logisim from scratch, now porting it to Verilog. Working with teammates through **MERL (Microelectronics Research Lab)** toward extending it through the M/A/F/D/G RISC-V extensions, with an eye on **GSoC/LFX** hardware track submissions.
+- **B-Rex** — leading a 4-person robotics team building a lightweight combat robot ("Robo War" bot).
 - Competition history: RoboSoccer, RoboSumo, and a PID-controlled line-following robot (LFR).
 
 ### 🎯 Currently learning
@@ -26,6 +25,5 @@ AI/ML fundamentals for robotics applications, ROS, and (soon) FPGA.
 ### 📫 Connect
 
 - LinkedIn: [shahzaib-suri](https://linkedin.com/in/shahzaib-suri)
-- X (Twitter): [@ShahzaibSuri](https://x.com/ShahzaibSuri)
 - Email: s.shahzaib2910@gmail.com
 
